@@ -1,6 +1,6 @@
 {
   "name": "sway",
-  "version": "3.0.0-wip-patched",
+  "version": "3.2.0",
   "description": "A library that simplifies OpenAPI integrations.",
   "main": "index.js",
   "types": "index.d.ts",
